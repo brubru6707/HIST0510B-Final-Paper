@@ -94,7 +94,7 @@ export default function Home() {
         {activeTab === "essay" && (
           <div className="bg-white rounded-lg shadow-lg p-4 max-w-6xl mx-auto">
             <iframe
-              src="https://docs.google.com/document/d/e/2PACX-1vTiZI-1xqaj30ISapSAuVTKJx-tBOfxSPeawP8sBKB45YwPBUfuMVnBYKxtf6aS1hBDnuWOehnNB1eA/pub?embedded=true"
+              src="https://docs.google.com/document/d/e/2PACX-1vSyLTzFEvhicvdUwzj5ytoAKXC41hfWZ9OxWYoj60FMOUp77ZioS_NX2IFfSNROHAhKKTI2k15lEmub/pub?embedded=true"
               className="w-full h-[85vh] border-0"
               title="Final Essay"
             />
